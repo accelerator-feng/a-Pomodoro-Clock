@@ -8,8 +8,7 @@
 body {
     background-color: #333;
     color: #fff;
-    font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体"
-    , Heiti, "黑体", sans-serif;
+    font-family: Helvetica, Tahoma, Arial, STXihei, "Microsoft YaHei", SimSun, Heiti, sans-serif;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
